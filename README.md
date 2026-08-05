@@ -12,9 +12,9 @@
 
 ---
 
-## \u2705 What I Build
+## What I Build
 
-I'm a **Data Extraction Architect** and the founder of **[CoreClaw](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)**, an all-in-one web scraping & data platform. On GitHub, I maintain the largest open-source collection of production-ready scrapers for extracting structured data from the world's most important platforms.
+I'm a **Data Extraction Architect** fome **[CoreClaw](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)**, an all-in-one web scraping & data platform. On GitHub, I maintain the largest open-source collection of production-ready scrapers for extracting structured data from the world's most important platforms.
 
 This matrix currently powers **35+ repositories** covering Instagram, Google Maps, Amazon, TikTok, YouTube, LinkedIn, Facebook, Reddit, eBay, Walmart, Zillow, Indeed, and more.
 
@@ -22,7 +22,7 @@ This matrix currently powers **35+ repositories** covering Instagram, Google Map
 
 ---
 
-## \U0001f4e6 My Scraper Matrix
+##  My Scraper Matrix
 
 ### Instagram Scrapers
 
@@ -88,7 +88,7 @@ This matrix currently powers **35+ repositories** covering Instagram, Google Map
 
 ---
 
-## \U0001f527 Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-HTTP-20232A?logo=python)
@@ -99,11 +99,11 @@ This matrix currently powers **35+ repositories** covering Instagram, Google Map
 
 ---
 
-## \U0001f680 Featured Product
+##  Featured Product
 
 <div align="center">
 
-### \U0001f48e Sponsored by CoreClaw
+###  Sponsored by CoreClaw
 
 **The All-in-One Web Scraping & Data Platform**
 
@@ -115,7 +115,7 @@ This matrix currently powers **35+ repositories** covering Instagram, Google Map
 
 ---
 
-## \u2b50 Support the Matrix
+##  Support the Matrix
 
 If my open-source scrapers save you time, please consider starring the repos you use. Every star helps the scraping community grow.
 
