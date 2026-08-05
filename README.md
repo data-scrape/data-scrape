@@ -107,9 +107,9 @@ This matrix currently powers **35+ repositories** covering Instagram, Google Map
 
 **The All-in-One Web Scraping & Data Platform**
 
-\u2705 No browser automation  \u00b7  \u2705 No proxy management  \u00b7  \u2705 Free credits for new users
+ No browser automation     No proxy management     Free credits for new users
 
-\u2b07\ufe0f [Start Scraping with CoreClaw Free](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
+[Start Scraping with CoreClaw Free](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
 
 </div>
 
@@ -129,6 +129,6 @@ If my open-source scrapers save you time, please consider starring the repos you
 
 <div align="center">
 
-<sup>Built with \u2764\ufe0f for the web scraping community \u00b7 35+ repos and counting</sup>
+<sup>Built with \u2764\ufe0f for the web scraping community 35+ repos and counting</sup>
 
 </div>
