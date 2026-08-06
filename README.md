@@ -12,8 +12,8 @@
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/badge/Total%20Repos-60-blue?style=for-the-badge)
-![GitHub stars](https://img.shields.io/badge/Platforms-11-green?style=for-the-badge)
+![GitHub stars](https://img.shields.io/badge/Total%20Repos-88-blue?style=for-the-badge)
+![GitHub stars](https://img.shields.io/badge/Platforms-18-green?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&style=for-the-badge)
 
@@ -25,7 +25,7 @@
 
 [![CoreClaw](https://img.shields.io/badge/CoreClaw-Data_Scraping_Platform-7B2FF7?style=for-the-badge&labelColor=5B21B6)](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
 
-**The All-in-One Web Scraping & Data Platform** — Scrape Google Maps, Instagram, Amazon, LinkedIn, TikTok, YouTube, Facebook, eBay and 50+ platforms via ready-to-use REST APIs.
+**The All-in-One Web Scraping & Data Platform** — Scrape Google Maps, Instagram, Amazon, LinkedIn, TikTok, YouTube, Facebook, eBay, Indeed, Zillow, Reddit, X, Telegram, Pinterest and 50+ platforms via ready-to-use REST APIs.
 
 ✅ No browser automation · ✅ No proxy management · ✅ Free credits for new users
 
@@ -33,122 +33,169 @@
 
 ---
 
-## 📊 Scraper Matrix (60 Repositories)
+## 📊 Scraper Matrix (88 Repositories)
 
 ### Instagram Scrapers (10)
 
 | Repository | Description |
 |------------|-------------|
-| [Instagram Scraper](https://github.com/data-scrape/instagram-scraper) | instagram scraper |
-| [Instagram Account Scraper](https://github.com/data-scrape/instagram-account-scraper) | instagram account scraper |
-| [Instagram Follower Scraper](https://github.com/data-scrape/instagram-follower-scraper) | instagram follower scraper |
-| [Instagram Profile Scraper](https://github.com/data-scrape/instagram-profile-scraper) | instagram profile scraper |
-| [Scrape Instagram Followers](https://github.com/data-scrape/scrape-instagram-followers) | scrape instagram followers |
-| [Best Instagram Scraper](https://github.com/data-scrape/best-instagram-scraper) | best instagram scraper |
-| [Apify Instagram Scraper](https://github.com/data-scrape/apify-instagram-scraper) | apify instagram scraper |
-| [Scrape Instagram Photos](https://github.com/data-scrape/scrape-instagram-photos) | scrape instagram photos |
-| [Instagram Comment Scraper](https://github.com/data-scrape/instagram-comment-scraper) | instagram comment scraper |
-| [Instagram Email Scraper](https://github.com/data-scrape/instagram-email-scraper) | instagram email scraper |
+| [Instagram Scraper](https://github.com/data-scrape/instagram-scraper) | Instagram scraper - posts, stories, reels, IGTV |
+| [Instagram Account Scraper](https://github.com/data-scrape/instagram-account-scraper) | Instagram account scraper with full profile data |
+| [Instagram Follower Scraper](https://github.com/data-scrape/instagram-follower-scraper) | Scrape Instagram followers list |
+| [Instagram Profile Scraper](https://github.com/data-scrape/instagram-profile-scraper) | Instagram profile data extraction |
+| [Scrape Instagram Followers](https://github.com/data-scrape/scrape-instagram-followers) | Scrape Instagram followers tool |
+| [Best Instagram Scraper](https://github.com/data-scrape/best-instagram-scraper) | Best Instagram scraper 2025 |
+| [Apify Instagram Scraper](https://github.com/data-scrape/apify-instagram-scraper) | Apify Instagram scraper alternative |
+| [Scrape Instagram Photos](https://github.com/data-scrape/scrape-instagram-photos) | Download Instagram photos in bulk |
+| [Instagram Comment Scraper](https://github.com/data-scrape/instagram-comment-scraper) | Scrape Instagram comments |
+| [Instagram Email Scraper](https://github.com/data-scrape/instagram-email-scraper) | Extract emails from Instagram profiles |
 
 ### Google Maps Scrapers (6)
 
 | Repository | Description |
 |------------|-------------|
-| [Google Maps Data Scraper](https://github.com/data-scrape/google-maps-data-scraper) | google maps data scraper |
-| [Best Google Maps Scraper](https://github.com/data-scrape/best-google-maps-scraper) | best google maps scraper |
-| [Scrape Google Maps](https://github.com/data-scrape/scrape-google-maps) | scrape google maps |
-| [Google Map Scraper Api ](https://github.com/data-scrape/google-map-scraper-api-) | google map scraper api  |
-| [Outscraper Google Maps Scraper](https://github.com/data-scrape/outscraper-google-maps-scraper) | outscraper google maps scraper |
-| [Apify Google Maps Scraper](https://github.com/data-scrape/apify-google-maps-scraper) | apify google maps scraper |
+| [Google Maps Data Scraper](https://github.com/data-scrape/google-maps-data-scraper) | Google Maps business data scraper |
+| [Best Google Maps Scraper](https://github.com/data-scrape/best-google-maps-scraper) | Best Google Maps scraper 2025 |
+| [Scrape Google Maps](https://github.com/data-scrape/scrape-google-maps) | Scrape Google Maps listings |
+| [Google Map Scraper API](https://github.com/data-scrape/google-map-scraper-api-) | Google Maps scraper API |
+| [Outscraper Google Maps Scraper](https://github.com/data-scrape/outscraper-google-maps-scraper) | Outscraper alternative for Google Maps |
+| [Apify Google Maps Scraper](https://github.com/data-scrape/apify-google-maps-scraper) | Apify Google Maps scraper alternative |
 
 ### Amazon Scrapers (6)
 
 | Repository | Description |
 |------------|-------------|
-| [Best Amazon Scraper](https://github.com/data-scrape/best-amazon-scraper) | best amazon scraper |
-| [Amazon Review Scraper](https://github.com/data-scrape/amazon-review-scraper) | amazon review scraper |
-| [Amazon Product Scraper](https://github.com/data-scrape/amazon-product-scraper) | amazon product scraper |
-| [Amazon Asin Scraper](https://github.com/data-scrape/amazon-asin-scraper) | amazon asin scraper |
-| [Amazon Price Scraper](https://github.com/data-scrape/amazon-price-scraper) | amazon price scraper |
-| [Amazon Scraper Api](https://github.com/data-scrape/amazon-scraper-api) | amazon scraper api |
+| [Best Amazon Scraper](https://github.com/data-scrape/best-amazon-scraper) | Best Amazon scraper 2025 |
+| [Amazon Review Scraper](https://github.com/data-scrape/amazon-review-scraper) | Scrape Amazon product reviews |
+| [Amazon Product Scraper](https://github.com/data-scrape/amazon-product-scraper) | Amazon product data extraction |
+| [Amazon ASIN Scraper](https://github.com/data-scrape/amazon-asin-scraper) | Scrape Amazon by ASIN |
+| [Amazon Price Scraper](https://github.com/data-scrape/amazon-price-scraper) | Track Amazon prices |
+| [Amazon Scraper API](https://github.com/data-scrape/amazon-scraper-api) | Amazon scraper REST API |
 
 ### LinkedIn Scrapers (7)
 
 | Repository | Description |
 |------------|-------------|
-| [Best Linkedin Scraper](https://github.com/data-scrape/best-linkedin-scraper) | best linkedin scraper |
-| [Linkedin Profile Data Scraper](https://github.com/data-scrape/linkedin-profile-data-scraper) | linkedin profile data scraper |
-| [Linkedin Job Scraper](https://github.com/data-scrape/linkedin-job-scraper) | linkedin job scraper |
-| [Linkedin Sales Navigator Scraper](https://github.com/data-scrape/linkedin-sales-navigator-scraper) | linkedin sales navigator scraper |
-| [Linkedin Email Scraper](https://github.com/data-scrape/linkedin-email-scraper) | linkedin email scraper |
-| [Linkedin Scraper Api](https://github.com/data-scrape/linkedin-scraper-api) | linkedin scraper api |
-| [Linkedin Post Scraper](https://github.com/data-scrape/linkedin-post-scraper) | linkedin post scraper |
+| [Best LinkedIn Scraper](https://github.com/data-scrape/best-linkedin-scraper) | Best LinkedIn scraper 2025 |
+| [LinkedIn Profile Data Scraper](https://github.com/data-scrape/linkedin-profile-data-scraper) | LinkedIn profile data extraction |
+| [LinkedIn Job Scraper](https://github.com/data-scrape/linkedin-job-scraper) | Scrape LinkedIn job postings |
+| [LinkedIn Sales Navigator Scraper](https://github.com/data-scrape/linkedin-sales-navigator-scraper) | LinkedIn Sales Navigator scraper |
+| [LinkedIn Email Scraper](https://github.com/data-scrape/linkedin-email-scraper) | Extract emails from LinkedIn |
+| [LinkedIn Scraper API](https://github.com/data-scrape/linkedin-scraper-api) | LinkedIn scraper REST API |
+| [LinkedIn Post Scraper](https://github.com/data-scrape/linkedin-post-scraper) | Scrape LinkedIn posts |
 
 ### YouTube Scrapers (5)
 
 | Repository | Description |
 |------------|-------------|
-| [Best Youtube Scraper](https://github.com/data-scrape/best-youtube-scraper) | best youtube scraper |
-| [Youtube Channel Scraper](https://github.com/data-scrape/youtube-channel-scraper) | youtube channel scraper |
-| [Scrape Youtube Comments](https://github.com/data-scrape/scrape-youtube-comments) | scrape youtube comments |
-| [Scrape Youtube Search Results](https://github.com/data-scrape/scrape-youtube-search-results) | scrape youtube search results |
-| [Youtube Video Scraper Api](https://github.com/data-scrape/youtube-video-scraper-api) | youtube video scraper api |
+| [Best YouTube Scraper](https://github.com/data-scrape/best-youtube-scraper) | Best YouTube scraper 2025 |
+| [YouTube Channel Scraper](https://github.com/data-scrape/youtube-channel-scraper) | Scrape YouTube channel data |
+| [Scrape YouTube Comments](https://github.com/data-scrape/scrape-youtube-comments) | Download YouTube comments |
+| [Scrape YouTube Search Results](https://github.com/data-scrape/scrape-youtube-search-results) | YouTube search results scraper |
+| [YouTube Video Scraper API](https://github.com/data-scrape/youtube-video-scraper-api) | YouTube video scraper REST API |
 
 ### Facebook Scrapers (7)
 
 | Repository | Description |
 |------------|-------------|
-| [Best Facebook Scraper](https://github.com/data-scrape/best-facebook-scraper) | best facebook scraper |
-| [Facebook Profile Scraper](https://github.com/data-scrape/facebook-profile-scraper) | facebook profile scraper |
-| [Facebook Group Scraper](https://github.com/data-scrape/facebook-group-scraper) | facebook group scraper |
-| [Facebook Marketplace Scraper](https://github.com/data-scrape/facebook-marketplace-scraper) | facebook marketplace scraper |
-| [Facebook Scrape Website](https://github.com/data-scrape/facebook-scrape-website) | facebook scrape website |
-| [Facebook Page Scraper](https://github.com/data-scrape/facebook-page-scraper) | facebook page scraper |
-| [Facebook Post Scraper](https://github.com/data-scrape/facebook-post-scraper) | facebook post scraper |
+| [Best Facebook Scraper](https://github.com/data-scrape/best-facebook-scraper) | Best Facebook scraper 2025 |
+| [Facebook Profile Scraper](https://github.com/data-scrape/facebook-profile-scraper) | Facebook profile data extraction |
+| [Facebook Group Scraper](https://github.com/data-scrape/facebook-group-scraper) | Scrape Facebook groups |
+| [Facebook Marketplace Scraper](https://github.com/data-scrape/facebook-marketplace-scraper) | Facebook Marketplace scraper |
+| [Facebook Scrape Website](https://github.com/data-scrape/facebook-scrape-website) | Facebook page scraping tool |
+| [Facebook Page Scraper](https://github.com/data-scrape/facebook-page-scraper) | Scrape Facebook business pages |
+| [Facebook Post Scraper](https://github.com/data-scrape/facebook-post-scraper) | Scrape Facebook posts |
 
 ### TikTok Scrapers (7)
 
 | Repository | Description |
 |------------|-------------|
-| [Best Tiktok Scraper](https://github.com/data-scrape/best-tiktok-scraper) | best tiktok scraper |
-| [Apify Tiktok Scraper](https://github.com/data-scrape/apify-tiktok-scraper) | apify tiktok scraper |
-| [Tiktok Comment Scraper](https://github.com/data-scrape/tiktok-comment-scraper) | tiktok comment scraper |
-| [Tiktok Video Scraper](https://github.com/data-scrape/tiktok-video-scraper) | tiktok video scraper |
-| [Tiktok Comments Scraper](https://github.com/data-scrape/tiktok-comments-scraper) | tiktok comments scraper |
-| [Tiktok Data Scraper Api](https://github.com/data-scrape/tiktok-data-scraper-api) | tiktok data scraper api |
-| [Tiktok Profile Scraper](https://github.com/data-scrape/tiktok-profile-scraper) | tiktok profile scraper |
+| [Best TikTok Scraper](https://github.com/data-scrape/best-tiktok-scraper) | Best TikTok scraper 2025 |
+| [Apify TikTok Scraper](https://github.com/data-scrape/apify-tiktok-scraper) | Apify TikTok scraper alternative |
+| [TikTok Comment Scraper](https://github.com/data-scrape/tiktok-comment-scraper) | Scrape TikTok comments |
+| [TikTok Video Scraper](https://github.com/data-scrape/tiktok-video-scraper) | Download TikTok videos |
+| [TikTok Comments Scraper](https://github.com/data-scrape/tiktok-comments-scraper) | Bulk TikTok comments scraper |
+| [TikTok Data Scraper API](https://github.com/data-scrape/tiktok-data-scraper-api) | TikTok scraper REST API |
+| [TikTok Profile Scraper](https://github.com/data-scrape/tiktok-profile-scraper) | TikTok profile data extraction |
 
 ### eBay & E-commerce (6)
 
 | Repository | Description |
 |------------|-------------|
-| [Best Ebay Scraper](https://github.com/data-scrape/best-ebay-scraper) | best ebay scraper |
-| [Ebay Web Scraper](https://github.com/data-scrape/ebay-web-scraper) | ebay web scraper |
-| [Ebay Price Scraper](https://github.com/data-scrape/ebay-price-scraper) | ebay price scraper |
-| [Scrap Gold Ebay](https://github.com/data-scrape/scrap-gold-ebay) | scrap gold ebay |
-| [Best Walmart Scraper](https://github.com/data-scrape/best-walmart-scraper) | best walmart scraper |
-| [Best Zillow Scraper](https://github.com/data-scrape/best-zillow-scraper) | best zillow scraper |
+| [Best eBay Scraper](https://github.com/data-scrape/best-ebay-scraper) | Best eBay scraper 2025 |
+| [eBay Web Scraper](https://github.com/data-scrape/ebay-web-scraper) | eBay web scraping tool |
+| [eBay Price Scraper](https://github.com/data-scrape/ebay-price-scraper) | Track eBay prices |
+| [Scrap Gold eBay](https://github.com/data-scrape/scrap-gold-ebay) | Gold scraping on eBay |
+| [Best Walmart Scraper](https://github.com/data-scrape/best-walmart-scraper) | Best Walmart scraper |
+| [Best Zillow Scraper](https://github.com/data-scrape/best-zillow-scraper) | Best Zillow scraper |
 
-### Search & Job (2)
-
-| Repository | Description |
-|------------|-------------|
-| [Best Google Search Scraper](https://github.com/data-scrape/best-google-search-scraper) | best google search scraper |
-| [Best Indeed Scraper](https://github.com/data-scrape/best-indeed-scraper) | best indeed scraper |
-
-### Social & Other (1)
+### Indeed Job Scrapers (3)
 
 | Repository | Description |
 |------------|-------------|
-| [Best Reddit Scraper](https://github.com/data-scrape/best-reddit-scraper) | best reddit scraper |
+| [Indeed Job Scraper](https://github.com/data-scrape/indeed-job-scraper) | Scrape Indeed job listings with full details |
+| [Scrape Indeed Job Postings](https://github.com/data-scrape/scrape-indeed-job-postings) | Extract Indeed job postings in bulk |
+| [Apify Indeed Scraper](https://github.com/data-scrape/apify-indeed-scraper) | Apify Indeed scraper alternative |
 
-### Platforms & Lists (3)
+### Zillow Real Estate Scrapers (4)
 
 | Repository | Description |
 |------------|-------------|
-| [Best Apify Alternative](https://github.com/data-scrape/best-apify-alternative) | best apify alternative |
-| [Awesome Apify Alternatives](https://github.com/data-scrape/awesome-apify-alternatives) | awesome apify alternatives |
-| [Awesome Lead Generation](https://github.com/data-scrape/awesome-lead-generation) | awesome lead generation |
+| [Easy Scrape Zillow Agents Free](https://github.com/data-scrape/easy-scrape-zillow-agents-free) | Free Zillow agents scraper |
+| [Zillow Data Scraper](https://github.com/data-scrape/zillow-data-scraper) | Zillow property data extraction |
+| [Zillow Scraper API](https://github.com/data-scrape/zillow-scraper-api) | Zillow scraper REST API |
+| [Apify Zillow Scraper](https://github.com/data-scrape/apify-zillow-scraper) | Apify Zillow scraper alternative |
+
+### Reddit Scrapers (3)
+
+| Repository | Description |
+|------------|-------------|
+| [Best Reddit Scraper](https://github.com/data-scrape/best-reddit-scraper) | Best Reddit scraper 2025 |
+| [Best Apollo Scraper Reddit](https://github.com/data-scrape/best-apollo-scraper-reddit) | Apollo Reddit scraper alternative |
+| [Apify Reddit Scraper](https://github.com/data-scrape/apify-reddit-scraper) | Apify Reddit scraper alternative |
+
+### Google Scrapers (5)
+
+| Repository | Description |
+|------------|-------------|
+| [Best Google Search Scraper](https://github.com/data-scrape/best-google-search-scraper) | Google Search results scraper |
+| [Google Shopping Scraper](https://github.com/data-scrape/google-shopping-scraper) | Scrape Google Shopping product data |
+| [Google Business Scraper](https://github.com/data-scrape/google-business-scraper) | Google Business Profile scraper |
+| [Google Reviews Scraper](https://github.com/data-scrape/google-reviews-scraper) | Scrape Google Maps reviews |
+| [Google Place ID API](https://github.com/data-scrape/google-place-id-api) | Google Place ID lookup API |
+
+### Social Media Scrapers (6)
+
+| Repository | Description |
+|------------|-------------|
+| [X Scraper](https://github.com/data-scrape/x-scraper) | X (Twitter) scraper - tweets, profiles, trends |
+| [Threads Scraper](https://github.com/data-scrape/threads-scraper) | Meta Threads post scraper |
+| [Pinterest Scraper](https://github.com/data-scrape/pinterest-scraper) | Scrape Pinterest pins, boards, images |
+| [Discord Scraper](https://github.com/data-scrape/discord-scraper) | Discord server and message scraper |
+| [Telegram Scraper](https://github.com/data-scrape/telegram-scraper) | Telegram channel and group scraper |
+| [Twitch Scraper](https://github.com/data-scrape/twitch-scraper) | Twitch streamer and chat scraper |
+
+### Reviews & Local Business Scrapers (3)
+
+| Repository | Description |
+|------------|-------------|
+| [Scrape Yelp Reviews](https://github.com/data-scrape/scrape-yelp-reviews) | Yelp reviews scraper |
+| [Yellow Pages Scraper](https://github.com/data-scrape/yellow-pages-scraper) | Yellow Pages business directory scraper |
+| [Glassdoor Scraper](https://github.com/data-scrape/glassdoor-scraper) | Glassdoor company reviews scraper |
+
+### Proxy & API Alternatives (9)
+
+| Repository | Description |
+|------------|-------------|
+| [Best Apify Alternative](https://github.com/data-scrape/best-apify-alternative) | Best Apify alternative 2025 |
+| [Awesome Apify Alternatives](https://github.com/data-scrape/awesome-apify-alternatives) | Curated Apify alternatives list |
+| [Bright Data Alternative](https://github.com/data-scrape/bright-data-alternative) | Bright Data alternative scraper |
+| [ZenRows Alternative](https://github.com/data-scrape/zenrows-alternative) | ZenRows alternative scraper |
+| [ScrapingBee Alternative](https://github.com/data-scrape/scrapingbee-alternative) | ScrapingBee alternative scraper |
+| [ScraperAPI Alternative](https://github.com/data-scrape/scraperapi-alternative) | ScraperAPI alternative scraper |
+| [SerpAPI Alternative](https://github.com/data-scrape/serpapi-alternative) | SerpAPI alternative scraper |
+| [Oxylabs Alternative](https://github.com/data-scrape/oxylabs-alternative) | Oxylabs alternative scraper |
+| [Awesome Lead Generation](https://github.com/data-scrape/awesome-lead-generation) | Lead generation tools curated list |
 
 ---
 
@@ -175,6 +222,6 @@
 
 <div align="center">
 
-<sup>Built with ❤️ for the web scraping community — 60 repos and growing</sup>
+<sup>Built with ❤️ for the web scraping community — 88 repos and growing</sup>
 
 </div>
