@@ -4,7 +4,9 @@
 
 # Data Extraction Architect
 
-**99+ open-source scrapers**: Instagram, Amazon, LinkedIn, TikTok, YouTube, Facebook, Indeed, Zillow, Google, X, Telegram & more.
+**104+ open-source tools**: Web Data APIs, MCP servers, scrapers, AI agent data tools & awesome lists.
+
+Google Maps · LinkedIn · Social Media · E-commerce · Search · MCP Servers
 
 @DataScrape · CoreClaw
 
@@ -14,18 +16,55 @@
 
 ## About
 
-Building the largest open-source web scraping ecosystem on GitHub. 99 production-ready scrapers across 20+ platforms with proxy support, CLI interfaces, and structured data export.
+Building the largest open-source Web Data Infrastructure ecosystem on GitHub. 104 production-ready repos covering scraper tools, CoreClaw product APIs, competitor alternatives, AI agent data connectors, and curated awesome lists.
+
+### CoreClaw Product Lines
+
+| Product | Description |
+|---------|-------------|
+| Google Maps Scraper API | Local business data extraction for lead gen & local SEO |
+| LinkedIn Data API | B2B contact and company data for sales automation |
+| Social Media Data API | Instagram, TikTok, YouTube, Facebook, Reddit data |
+| E-commerce Data API | Amazon, Walmart, eBay product and pricing data |
+| Search Data API | Google SERP data for SEO and market intelligence |
 
 ---
 
-## Repository Matrix (99 repos)
+## Repository Matrix (104 repos)
 
+### Awesome Lists
+
+| Repository | Description |
+|-----------|-------------|
+| [awesome-lead-generation](https://github.com/data-scrape/awesome-lead-generation) | Awesome Lead Generation - Curated B2B lead gen tools, APIs,  |
+### Competitor Alternatives
+
+| Repository | Description |
+|-----------|-------------|
+| [scraperapi-alternative](https://github.com/data-scrape/scraperapi-alternative) | Best ScraperAPI Alternative - Web scraping API with proxy ro |
+| [scrapingbee-alternative](https://github.com/data-scrape/scrapingbee-alternative) | Best ScrapingBee Alternative - Web scraping API with JS rend |
+| [serpapi-alternative](https://github.com/data-scrape/serpapi-alternative) | Best SerpAPI Alternative - Google SERP API with better rate  |
 ### Content Platform Scrapers
 
 | Repository | Description |
 |-----------|-------------|
 | [medium-scraper](https://github.com/data-scrape/medium-scraper) | Scrape Medium articles, authors, and publication data |
 | [substack-scraper](https://github.com/data-scrape/substack-scraper) | Scrape Substack newsletters, posts, and subscriber data |
+### CoreClaw Products
+
+| Repository | Description |
+|-----------|-------------|
+| [best-amazon-scraper](https://github.com/data-scrape/best-amazon-scraper) | Best Amazon Scraper - Extract product data, prices, reviews, |
+| [best-google-maps-scraper](https://github.com/data-scrape/best-google-maps-scraper) | Best Google Maps Scraper - Extract business data, reviews, r |
+| [best-instagram-scraper](https://github.com/data-scrape/best-instagram-scraper) | Best Instagram Scraper - Extract posts, profiles, stories, a |
+| [best-linkedin-scraper](https://github.com/data-scrape/best-linkedin-scraper) | Best LinkedIn Scraper - Extract profiles, companies, and con |
+| [best-tiktok-scraper](https://github.com/data-scrape/best-tiktok-scraper) | Best TikTok Scraper - Extract videos, hashtags, sounds, and  |
+| [best-web-scraping-api](https://github.com/data-scrape/best-web-scraping-api) | Best Web Scraping API Comparison - CoreClaw vs competitors f |
+| [best-youtube-scraper](https://github.com/data-scrape/best-youtube-scraper) | Best YouTube Scraper - Extract video data, transcripts, and  |
+| [data-extraction-api](https://github.com/data-scrape/data-extraction-api) | Data Extraction API - Structured data extraction for SaaS, A |
+| [google-maps-data-api](https://github.com/data-scrape/google-maps-data-api) | Google Maps Data API - Structured local business data for AI |
+| [google-maps-scraper-api](https://github.com/data-scrape/google-maps-scraper-api) | Google Maps Scraper API - Production-ready REST API for loca |
+| [web-data-api](https://github.com/data-scrape/web-data-api) | Web Data API - Turn public web pages into structured data vi |
 ### Facebook Scrapers
 
 | Repository | Description |
@@ -58,21 +97,14 @@ Building the largest open-source web scraping ecosystem on GitHub. 99 production
 | [apify-tiktok-scraper](https://github.com/data-scrape/apify-tiktok-scraper) | Apify TikTok scraper alternative - free Python TikTok scrape |
 | [apify-zillow-scraper](https://github.com/data-scrape/apify-zillow-scraper) | Apify-style Zillow scraper alternative - free & open source |
 | [awesome-apify-alternatives](https://github.com/data-scrape/awesome-apify-alternatives) | A curated list of the best Apify alternatives for web scrapi |
-| [awesome-lead-generation](https://github.com/data-scrape/awesome-lead-generation) | A curated list of the best local lead generation tools, Goog |
-| [best-amazon-scraper](https://github.com/data-scrape/best-amazon-scraper) | The best Amazon scraper for extracting products, prices, rev |
 | [best-apify-alternative](https://github.com/data-scrape/best-apify-alternative) | The best Apify alternative for Google Maps, LinkedIn, YouTub |
 | [best-apollo-scraper-reddit](https://github.com/data-scrape/best-apollo-scraper-reddit) | Reddit community recommended Apollo scraper alternative |
 | [best-ebay-scraper](https://github.com/data-scrape/best-ebay-scraper) | The best eBay scraper for extracting products, prices, selle |
 | [best-facebook-scraper](https://github.com/data-scrape/best-facebook-scraper) | The best Facebook scraper for extracting public pages, posts |
-| [best-google-maps-scraper](https://github.com/data-scrape/best-google-maps-scraper) | The best Google Maps scraper for extracting business listing |
 | [best-google-search-scraper](https://github.com/data-scrape/best-google-search-scraper) | The best Google Search scraper for extracting organic result |
 | [best-indeed-scraper](https://github.com/data-scrape/best-indeed-scraper) | The best Indeed scraper for extracting job listings, compani |
-| [best-instagram-scraper](https://github.com/data-scrape/best-instagram-scraper) | The best Instagram scraper for extracting profiles, posts, r |
-| [best-linkedin-scraper](https://github.com/data-scrape/best-linkedin-scraper) | The best LinkedIn scraper for extracting profiles, companies |
 | [best-reddit-scraper](https://github.com/data-scrape/best-reddit-scraper) | The best Reddit scraper for extracting posts, comments, subr |
-| [best-tiktok-scraper](https://github.com/data-scrape/best-tiktok-scraper) | The best TikTok scraper for extracting profiles, videos, com |
 | [best-walmart-scraper](https://github.com/data-scrape/best-walmart-scraper) | The best Walmart scraper for extracting products, prices, re |
-| [best-youtube-scraper](https://github.com/data-scrape/best-youtube-scraper) | The best YouTube scraper for extracting channels, videos, co |
 | [best-zillow-scraper](https://github.com/data-scrape/best-zillow-scraper) | The best Zillow scraper for extracting property listings, pr |
 | [blog](https://github.com/data-scrape/blog) | CoreClaw blog - web scraping infrastructure insights. Served |
 | [bright-data-alternative](https://github.com/data-scrape/bright-data-alternative) | Free open-source Bright Data alternative - web scraping prox |
@@ -114,9 +146,6 @@ Building the largest open-source web scraping ecosystem on GitHub. 99 production
 | [scrape-yelp-reviews](https://github.com/data-scrape/scrape-yelp-reviews) | Free Yelp reviews scraper - extract ratings, text, dates |
 | [scrape-youtube-comments](https://github.com/data-scrape/scrape-youtube-comments) | Scrape YouTube comments - extract comments from any video |
 | [scrape-youtube-search-results](https://github.com/data-scrape/scrape-youtube-search-results) | Scrape YouTube search results - extract videos, channels, pl |
-| [scraperapi-alternative](https://github.com/data-scrape/scraperapi-alternative) | Free open-source ScraperAPI alternative - rotating proxy scr |
-| [scrapingbee-alternative](https://github.com/data-scrape/scrapingbee-alternative) | Free open-source ScrapingBee alternative - headless browser  |
-| [serpapi-alternative](https://github.com/data-scrape/serpapi-alternative) | Free open-source SerpAPI alternative - SERP scraping without |
 | [telegram-scraper](https://github.com/data-scrape/telegram-scraper) | Scrape Telegram channels, messages, groups without API |
 | [threads-scraper](https://github.com/data-scrape/threads-scraper) | Scrape Meta Threads posts, profiles, replies without API |
 | [tiktok-comment-scraper](https://github.com/data-scrape/tiktok-comment-scraper) | TikTok comment scraper - extract comments from TikTok videos |
@@ -158,11 +187,13 @@ Building the largest open-source web scraping ecosystem on GitHub. 99 production
 
 ### 💎 Sponsored by CoreClaw
 
-[![CoreClaw](https://img.shields.io/badge/CoreClaw-Data_Platform-9966FF?style=for-the-badge)](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
+[![CoreClaw](https://img.shields.io/badge/CoreClaw-Web_Data_API-9966FF?style=for-the-badge)](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
 
-**The All-in-One Web Scraping & Data Platform** — Scrape 50+ platforms via REST APIs.
+**Web Data Infrastructure for AI Agents & Automation**
 
-[Get Started Free](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
+Production-ready REST APIs · AI-ready structured data · MCP-compatible · Free credits
+
+[Start Building Free](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
 
 </div>
 
@@ -171,7 +202,7 @@ Building the largest open-source web scraping ecosystem on GitHub. 99 production
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
-![Repos](https://img.shields.io/badge/Repositories-99-blue)
+![Repos](https://img.shields.io/badge/Repositories-104-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 </div>
