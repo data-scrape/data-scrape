@@ -4,7 +4,7 @@
 
 # Data Extraction Architect
 
-**104+ open-source tools**: Web Data APIs, MCP servers, scrapers, AI agent data tools & awesome lists.
+**108+ open-source tools**: Web Data APIs, MCP servers, scrapers, AI agent data tools & awesome lists.
 
 Google Maps · LinkedIn · Social Media · E-commerce · Search · MCP Servers
 
@@ -16,7 +16,7 @@ Google Maps · LinkedIn · Social Media · E-commerce · Search · MCP Servers
 
 ## About
 
-Building the largest open-source Web Data Infrastructure ecosystem on GitHub. 104 production-ready repos covering scraper tools, CoreClaw product APIs, competitor alternatives, AI agent data connectors, and curated awesome lists.
+Building the largest open-source Web Data Infrastructure ecosystem on GitHub. 108 production-ready repos covering scraper tools, CoreClaw product APIs, competitor alternatives, AI agent data connectors, and curated awesome lists.
 
 ### CoreClaw Product Lines
 
@@ -30,7 +30,7 @@ Building the largest open-source Web Data Infrastructure ecosystem on GitHub. 10
 
 ---
 
-## Repository Matrix (104 repos)
+## Repository Matrix (108 repos)
 
 ### Awesome Lists
 
@@ -41,6 +41,7 @@ Building the largest open-source Web Data Infrastructure ecosystem on GitHub. 10
 
 | Repository | Description |
 |-----------|-------------|
+| [oxylabs-alternative](https://github.com/data-scrape/oxylabs-alternative) | Best Oxylabs Alternative - Residential proxy and web scrapin |
 | [scraperapi-alternative](https://github.com/data-scrape/scraperapi-alternative) | Best ScraperAPI Alternative - Web scraping API with proxy ro |
 | [scrapingbee-alternative](https://github.com/data-scrape/scrapingbee-alternative) | Best ScrapingBee Alternative - Web scraping API with JS rend |
 | [serpapi-alternative](https://github.com/data-scrape/serpapi-alternative) | Best SerpAPI Alternative - Google SERP API with better rate  |
@@ -61,9 +62,13 @@ Building the largest open-source Web Data Infrastructure ecosystem on GitHub. 10
 | [best-tiktok-scraper](https://github.com/data-scrape/best-tiktok-scraper) | Best TikTok Scraper - Extract videos, hashtags, sounds, and  |
 | [best-web-scraping-api](https://github.com/data-scrape/best-web-scraping-api) | Best Web Scraping API Comparison - CoreClaw vs competitors f |
 | [best-youtube-scraper](https://github.com/data-scrape/best-youtube-scraper) | Best YouTube Scraper - Extract video data, transcripts, and  |
+| [business-data-api](https://github.com/data-scrape/business-data-api) | Business Data API - Company data, contact info, and firmogra |
+| [coreclaw-review](https://github.com/data-scrape/coreclaw-review) | CoreClaw Review - Web Data API platform features, pricing, a |
 | [data-extraction-api](https://github.com/data-scrape/data-extraction-api) | Data Extraction API - Structured data extraction for SaaS, A |
 | [google-maps-data-api](https://github.com/data-scrape/google-maps-data-api) | Google Maps Data API - Structured local business data for AI |
 | [google-maps-scraper-api](https://github.com/data-scrape/google-maps-scraper-api) | Google Maps Scraper API - Production-ready REST API for loca |
+| [lead-generation-api](https://github.com/data-scrape/lead-generation-api) | Lead Generation API - Extract B2B contact data, company info |
+| [linkedin-data-api](https://github.com/data-scrape/linkedin-data-api) | LinkedIn Data API - B2B contact and company data for sales a |
 | [web-data-api](https://github.com/data-scrape/web-data-api) | Web Data API - Turn public web pages into structured data vi |
 ### Facebook Scrapers
 
@@ -136,7 +141,6 @@ Building the largest open-source Web Data Infrastructure ecosystem on GitHub. 10
 | [linkedin-profile-data-scraper](https://github.com/data-scrape/linkedin-profile-data-scraper) | LinkedIn profile data scraper - extract profiles, experience |
 | [linkedin-scraper-api](https://github.com/data-scrape/linkedin-scraper-api) | LinkedIn scraper API - REST API for LinkedIn data extraction |
 | [outscraper-google-maps-scraper](https://github.com/data-scrape/outscraper-google-maps-scraper) | Compare Outscraper Google Maps Scraper with modern alternati |
-| [oxylabs-alternative](https://github.com/data-scrape/oxylabs-alternative) | Free open-source Oxylabs alternative - residential proxy scr |
 | [pinterest-scraper](https://github.com/data-scrape/pinterest-scraper) | Scrape Pinterest pins, boards, images without API |
 | [scrap-gold-ebay](https://github.com/data-scrape/scrap-gold-ebay) | Scrap gold eBay - extract gold and precious metal listings f |
 | [scrape-google-maps](https://github.com/data-scrape/scrape-google-maps) | Learn how to scrape Google Maps business listings, reviews,  |
@@ -202,7 +206,7 @@ Production-ready REST APIs · AI-ready structured data · MCP-compatible · Free
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
-![Repos](https://img.shields.io/badge/Repositories-104-blue)
+![Repos](https://img.shields.io/badge/Repositories-108-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 </div>
