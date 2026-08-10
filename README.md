@@ -4,7 +4,7 @@
 
 # Data Extraction Architect
 
-**108+ open-source tools**: Web Data APIs, MCP servers, scrapers, AI agent data tools & awesome lists.
+**109+ open-source tools**: Web Data APIs, MCP servers, scrapers, AI agent data tools & awesome lists.
 
 Google Maps · LinkedIn · Social Media · E-commerce · Search · MCP Servers
 
@@ -16,7 +16,7 @@ Google Maps · LinkedIn · Social Media · E-commerce · Search · MCP Servers
 
 ## About
 
-Building the largest open-source Web Data Infrastructure ecosystem on GitHub. 108 production-ready repos covering scraper tools, CoreClaw product APIs, competitor alternatives, AI agent data connectors, and curated awesome lists.
+Building the largest open-source Web Data Infrastructure ecosystem on GitHub. 109 production-ready repos covering scraper tools, CoreClaw product APIs, competitor alternatives, AI agent data connectors, and curated awesome lists.
 
 ### CoreClaw Product Lines
 
@@ -30,7 +30,7 @@ Building the largest open-source Web Data Infrastructure ecosystem on GitHub. 10
 
 ---
 
-## Repository Matrix (108 repos)
+## Repository Matrix (109 repos)
 
 ### Awesome Lists
 
@@ -67,6 +67,7 @@ Building the largest open-source Web Data Infrastructure ecosystem on GitHub. 10
 | [data-extraction-api](https://github.com/data-scrape/data-extraction-api) | Data Extraction API - Structured data extraction for SaaS, A |
 | [google-maps-data-api](https://github.com/data-scrape/google-maps-data-api) | Google Maps Data API - Structured local business data for AI |
 | [google-maps-scraper-api](https://github.com/data-scrape/google-maps-scraper-api) | Google Maps Scraper API - Production-ready REST API for loca |
+| [instagram-data-api](https://github.com/data-scrape/instagram-data-api) | Instagram Data API - Structured Instagram data for influence |
 | [lead-generation-api](https://github.com/data-scrape/lead-generation-api) | Lead Generation API - Extract B2B contact data, company info |
 | [linkedin-data-api](https://github.com/data-scrape/linkedin-data-api) | LinkedIn Data API - B2B contact and company data for sales a |
 | [web-data-api](https://github.com/data-scrape/web-data-api) | Web Data API - Turn public web pages into structured data vi |
@@ -206,7 +207,7 @@ Production-ready REST APIs · AI-ready structured data · MCP-compatible · Free
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
-![Repos](https://img.shields.io/badge/Repositories-108-blue)
+![Repos](https://img.shields.io/badge/Repositories-109-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 </div>
