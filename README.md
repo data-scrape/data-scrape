@@ -4,7 +4,7 @@
 
 # Data Extraction Architect
 
-**109+ open-source tools**: Web Data APIs, MCP servers, scrapers, AI agent data tools & awesome lists.
+**114+ open-source tools**: Web Data APIs, MCP servers, scrapers, AI agent data tools & awesome lists.
 
 Google Maps · LinkedIn · Social Media · E-commerce · Search · MCP Servers
 
@@ -16,7 +16,7 @@ Google Maps · LinkedIn · Social Media · E-commerce · Search · MCP Servers
 
 ## About
 
-Building the largest open-source Web Data Infrastructure ecosystem on GitHub. 109 production-ready repos covering scraper tools, CoreClaw product APIs, competitor alternatives, AI agent data connectors, and curated awesome lists.
+Building the largest open-source Web Data Infrastructure ecosystem on GitHub. 114 production-ready repos covering scraper tools, CoreClaw product APIs, competitor alternatives, AI agent data connectors, and curated awesome lists.
 
 ### CoreClaw Product Lines
 
@@ -30,7 +30,7 @@ Building the largest open-source Web Data Infrastructure ecosystem on GitHub. 10
 
 ---
 
-## Repository Matrix (109 repos)
+## Repository Matrix (114 repos)
 
 ### Awesome Lists
 
@@ -41,7 +41,10 @@ Building the largest open-source Web Data Infrastructure ecosystem on GitHub. 10
 
 | Repository | Description |
 |-----------|-------------|
+| [brightdata-alternative](https://github.com/data-scrape/brightdata-alternative) | Best Bright Data Alternative - Web data platform for AI agen |
+| [outscraper-alternative](https://github.com/data-scrape/outscraper-alternative) | Best Outscraper Alternative - Google Maps data extraction AP |
 | [oxylabs-alternative](https://github.com/data-scrape/oxylabs-alternative) | Best Oxylabs Alternative - Residential proxy and web scrapin |
+| [phantombuster-alternative](https://github.com/data-scrape/phantombuster-alternative) | Best PhantomBuster Alternative - LinkedIn & social media aut |
 | [scraperapi-alternative](https://github.com/data-scrape/scraperapi-alternative) | Best ScraperAPI Alternative - Web scraping API with proxy ro |
 | [scrapingbee-alternative](https://github.com/data-scrape/scrapingbee-alternative) | Best ScrapingBee Alternative - Web scraping API with JS rend |
 | [serpapi-alternative](https://github.com/data-scrape/serpapi-alternative) | Best SerpAPI Alternative - Google SERP API with better rate  |
@@ -55,6 +58,7 @@ Building the largest open-source Web Data Infrastructure ecosystem on GitHub. 10
 
 | Repository | Description |
 |-----------|-------------|
+| [amazon-product-api](https://github.com/data-scrape/amazon-product-api) | Amazon Product API - Real-time product, pricing, and review  |
 | [best-amazon-scraper](https://github.com/data-scrape/best-amazon-scraper) | Best Amazon Scraper - Extract product data, prices, reviews, |
 | [best-google-maps-scraper](https://github.com/data-scrape/best-google-maps-scraper) | Best Google Maps Scraper - Extract business data, reviews, r |
 | [best-instagram-scraper](https://github.com/data-scrape/best-instagram-scraper) | Best Instagram Scraper - Extract posts, profiles, stories, a |
@@ -67,6 +71,7 @@ Building the largest open-source Web Data Infrastructure ecosystem on GitHub. 10
 | [data-extraction-api](https://github.com/data-scrape/data-extraction-api) | Data Extraction API - Structured data extraction for SaaS, A |
 | [google-maps-data-api](https://github.com/data-scrape/google-maps-data-api) | Google Maps Data API - Structured local business data for AI |
 | [google-maps-scraper-api](https://github.com/data-scrape/google-maps-scraper-api) | Google Maps Scraper API - Production-ready REST API for loca |
+| [google-search-api](https://github.com/data-scrape/google-search-api) | Google Search API - SERP data extraction for SEO and market  |
 | [instagram-data-api](https://github.com/data-scrape/instagram-data-api) | Instagram Data API - Structured Instagram data for influence |
 | [lead-generation-api](https://github.com/data-scrape/lead-generation-api) | Lead Generation API - Extract B2B contact data, company info |
 | [linkedin-data-api](https://github.com/data-scrape/linkedin-data-api) | LinkedIn Data API - B2B contact and company data for sales a |
@@ -207,7 +212,7 @@ Production-ready REST APIs · AI-ready structured data · MCP-compatible · Free
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
-![Repos](https://img.shields.io/badge/Repositories-109-blue)
+![Repos](https://img.shields.io/badge/Repositories-114-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 </div>
