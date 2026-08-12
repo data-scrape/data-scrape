@@ -4,7 +4,7 @@
 
 # Data Extraction Architect
 
-**114+ open-source tools**: Web Data APIs, MCP servers, scrapers, AI agent data tools & awesome lists.
+**119+ open-source tools**: Web Data APIs, MCP servers, scrapers, AI agent data tools & awesome lists.
 
 Google Maps · LinkedIn · Social Media · E-commerce · Search · MCP Servers
 
@@ -16,7 +16,7 @@ Google Maps · LinkedIn · Social Media · E-commerce · Search · MCP Servers
 
 ## About
 
-Building the largest open-source Web Data Infrastructure ecosystem on GitHub. 114 production-ready repos covering scraper tools, CoreClaw product APIs, competitor alternatives, AI agent data connectors, and curated awesome lists.
+Building the largest open-source Web Data Infrastructure ecosystem on GitHub. 119 production-ready repos covering scraper tools, CoreClaw product APIs, competitor alternatives, AI agent data connectors, and curated awesome lists.
 
 ### CoreClaw Product Lines
 
@@ -30,8 +30,14 @@ Building the largest open-source Web Data Infrastructure ecosystem on GitHub. 11
 
 ---
 
-## Repository Matrix (114 repos)
+## Repository Matrix (119 repos)
 
+### AI Agent Data
+
+| Repository | Description |
+|-----------|-------------|
+| [ai-agent-data-tools](https://github.com/data-scrape/ai-agent-data-tools) | AI Agent Data Tools - Connect AI agents to real-time web dat |
+| [mcp-data-tools](https://github.com/data-scrape/mcp-data-tools) | MCP Data Tools - Model Context Protocol server for web data  |
 ### Awesome Lists
 
 | Repository | Description |
@@ -47,7 +53,10 @@ Building the largest open-source Web Data Infrastructure ecosystem on GitHub. 11
 | [phantombuster-alternative](https://github.com/data-scrape/phantombuster-alternative) | Best PhantomBuster Alternative - LinkedIn & social media aut |
 | [scraperapi-alternative](https://github.com/data-scrape/scraperapi-alternative) | Best ScraperAPI Alternative - Web scraping API with proxy ro |
 | [scrapingbee-alternative](https://github.com/data-scrape/scrapingbee-alternative) | Best ScrapingBee Alternative - Web scraping API with JS rend |
+| [scrapingdog-alternative](https://github.com/data-scrape/scrapingdog-alternative) | Best ScrapingDog Alternative - Web scraping API for develope |
 | [serpapi-alternative](https://github.com/data-scrape/serpapi-alternative) | Best SerpAPI Alternative - Google SERP API with better rate  |
+| [texau-alternative](https://github.com/data-scrape/texau-alternative) | Best TexAu Alternative - LinkedIn automation and lead genera |
+| [zenscrape-alternative](https://github.com/data-scrape/zenscrape-alternative) | Best Zenscrape Alternative - Web scraping API for structured |
 ### Content Platform Scrapers
 
 | Repository | Description |
@@ -212,7 +221,7 @@ Production-ready REST APIs · AI-ready structured data · MCP-compatible · Free
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
-![Repos](https://img.shields.io/badge/Repositories-114-blue)
+![Repos](https://img.shields.io/badge/Repositories-119-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 </div>
