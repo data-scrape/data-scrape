@@ -4,7 +4,7 @@
 
 # Data Extraction Architect
 
-**134+ open-source tools**: Web Data APIs, MCP servers, scrapers, AI agent data tools & awesome lists.
+**137+ open-source tools**: Web Data APIs, MCP servers, scrapers, AI agent data tools & awesome lists.
 
 Google Maps · LinkedIn · Social Media · E-commerce · Search · MCP Servers
 
@@ -16,7 +16,7 @@ Google Maps · LinkedIn · Social Media · E-commerce · Search · MCP Servers
 
 ## About
 
-Building the largest open-source Web Data Infrastructure ecosystem on GitHub. 134 production-ready repos covering scraper tools, CoreClaw product APIs, competitor alternatives, AI agent data connectors, and curated awesome lists.
+Building the largest open-source Web Data Infrastructure ecosystem on GitHub. 137 production-ready repos covering scraper tools, CoreClaw product APIs, competitor alternatives, AI agent data connectors, and curated awesome lists.
 
 ### CoreClaw Product Lines
 
@@ -36,7 +36,7 @@ Join the [DataScrape Discord community](https://discord.gg/s5DWYXTc8) to discuss
 
 ---
 
-## Repository Matrix (134 repos)
+## Repository Matrix (137 repos)
 
 ### AI Agent Data
 
@@ -96,11 +96,22 @@ Join the [DataScrape Discord community](https://discord.gg/s5DWYXTc8) to discuss
 | [lead-generation-api](https://github.com/data-scrape/lead-generation-api) | Lead Generation API - Extract B2B contact data, company info |
 | [linkedin-data-api](https://github.com/data-scrape/linkedin-data-api) | LinkedIn Data API - B2B contact and company data for sales a |
 | [web-data-api](https://github.com/data-scrape/web-data-api) | Web Data API - Turn public web pages into structured data vi |
+### Custom Scrapers
+
+| Repository | Description |
+|-----------|-------------|
+| [crawler-google-places](https://github.com/data-scrape/crawler-google-places) | Scrape crawler google places data |
+| [cruisemapper-cruises-scraper](https://github.com/data-scrape/cruisemapper-cruises-scraper) | Scrape cruisemapper cruises scraper data |
+| [cslb-contractor-license-search](https://github.com/data-scrape/cslb-contractor-license-search) | Scrape cslb contractor license search data |
+| [fmcsa-dot-crawler](https://github.com/data-scrape/fmcsa-dot-crawler) | Scrape fmcsa dot crawler data |
+| [illinois-idfpr-license-scraper](https://github.com/data-scrape/illinois-idfpr-license-scraper) | Scrape illinois idfpr license scraper data |
+| [or-biz-lookup](https://github.com/data-scrape/or-biz-lookup) | Scrape or biz lookup data |
+| [price-comparison](https://github.com/data-scrape/price-comparison) | Scrape price comparison data |
+| [tx-biz-lookup](https://github.com/data-scrape/tx-biz-lookup) | Scrape tx biz lookup data |
 ### Discord Scrapers
 
 | Repository | Description |
 |-----------|-------------|
-| [discord-server-scraper](https://github.com/data-scrape/discord-server-scraper) | Scrape Discord servers, channels, and member lists data |
 | [discord-server-scraper](https://github.com/data-scrape/discord-server-scraper) | Scrape Discord servers, channels, and member lists data |
 ### Facebook Scrapers
 
@@ -112,8 +123,6 @@ Join the [DataScrape Discord community](https://discord.gg/s5DWYXTc8) to discuss
 | Repository | Description |
 |-----------|-------------|
 | [google-news-scraper](https://github.com/data-scrape/google-news-scraper) | Scrape Google News articles, headlines, and source data |
-| [google-news-scraper](https://github.com/data-scrape/google-news-scraper) | Scrape Google News articles, headlines, and source data |
-| [google-trends-scraper](https://github.com/data-scrape/google-trends-scraper) | Scrape Google Trends data, search interest, and trending top |
 | [google-trends-scraper](https://github.com/data-scrape/google-trends-scraper) | Scrape Google Trends data, search interest, and trending top |
 ### LinkedIn Scrapers
 
@@ -209,7 +218,6 @@ Join the [DataScrape Discord community](https://discord.gg/s5DWYXTc8) to discuss
 | Repository | Description |
 |-----------|-------------|
 | [pinterest-pin-scraper](https://github.com/data-scrape/pinterest-pin-scraper) | Scrape Pinterest pins, boards, and image data in bulk |
-| [pinterest-pin-scraper](https://github.com/data-scrape/pinterest-pin-scraper) | Scrape Pinterest pins, boards, and image data in bulk |
 ### Reddit Scrapers
 
 | Repository | Description |
@@ -229,7 +237,6 @@ Join the [DataScrape Discord community](https://discord.gg/s5DWYXTc8) to discuss
 
 | Repository | Description |
 |-----------|-------------|
-| [telegram-channel-scraper](https://github.com/data-scrape/telegram-channel-scraper) | Scrape Telegram channels, messages, and subscriber data |
 | [telegram-channel-scraper](https://github.com/data-scrape/telegram-channel-scraper) | Scrape Telegram channels, messages, and subscriber data |
 ### YouTube Scrapers
 
@@ -258,7 +265,7 @@ Production-ready REST APIs · AI-ready structured data · MCP-compatible · Free
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
-![Repos](https://img.shields.io/badge/Repositories-134-blue)
+![Repos](https://img.shields.io/badge/Repositories-137-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 </div>
