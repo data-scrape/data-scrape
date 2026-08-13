@@ -30,6 +30,12 @@ Building the largest open-source Web Data Infrastructure ecosystem on GitHub. 12
 
 ---
 
+## Community
+
+Join the [DataScrape Discord community](https://discord.gg/s5DWYXTc8) to discuss web data APIs, MCP servers, and AI agent workflows.
+
+---
+
 ## Repository Matrix (124 repos)
 
 ### AI Agent Data
