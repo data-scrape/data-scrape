@@ -4,7 +4,7 @@
 
 # Data Extraction Architect
 
-**119+ open-source tools**: Web Data APIs, MCP servers, scrapers, AI agent data tools & awesome lists.
+**124+ open-source tools**: Web Data APIs, MCP servers, scrapers, AI agent data tools & awesome lists.
 
 Google Maps · LinkedIn · Social Media · E-commerce · Search · MCP Servers
 
@@ -16,7 +16,7 @@ Google Maps · LinkedIn · Social Media · E-commerce · Search · MCP Servers
 
 ## About
 
-Building the largest open-source Web Data Infrastructure ecosystem on GitHub. 119 production-ready repos covering scraper tools, CoreClaw product APIs, competitor alternatives, AI agent data connectors, and curated awesome lists.
+Building the largest open-source Web Data Infrastructure ecosystem on GitHub. 124 production-ready repos covering scraper tools, CoreClaw product APIs, competitor alternatives, AI agent data connectors, and curated awesome lists.
 
 ### CoreClaw Product Lines
 
@@ -30,19 +30,24 @@ Building the largest open-source Web Data Infrastructure ecosystem on GitHub. 11
 
 ---
 
-## Repository Matrix (119 repos)
+## Repository Matrix (124 repos)
 
 ### AI Agent Data
 
 | Repository | Description |
 |-----------|-------------|
+| [agentic-data-pipeline](https://github.com/data-scrape/agentic-data-pipeline) | Agentic Data Pipeline - Real-time web data pipeline for AI a |
 | [ai-agent-data-tools](https://github.com/data-scrape/ai-agent-data-tools) | AI Agent Data Tools - Connect AI agents to real-time web dat |
+| [ai-agent-web-scraper](https://github.com/data-scrape/ai-agent-web-scraper) | AI Agent Web Scraper - LLM-powered data extraction for agent |
 | [mcp-data-tools](https://github.com/data-scrape/mcp-data-tools) | MCP Data Tools - Model Context Protocol server for web data  |
+| [rag-data-source](https://github.com/data-scrape/rag-data-source) | RAG Data Source - External web data for Retrieval-Augmented  |
 ### Awesome Lists
 
 | Repository | Description |
 |-----------|-------------|
+| [awesome-google-maps](https://github.com/data-scrape/awesome-google-maps) | Awesome Google Maps - Curated tools for Google Maps data ext |
 | [awesome-lead-generation](https://github.com/data-scrape/awesome-lead-generation) | Awesome Lead Generation - Curated B2B lead gen tools, APIs,  |
+| [awesome-web-scraping](https://github.com/data-scrape/awesome-web-scraping) | Awesome Web Scraping - Curated list of scraping tools, APIs, |
 ### Competitor Alternatives
 
 | Repository | Description |
@@ -221,7 +226,7 @@ Production-ready REST APIs · AI-ready structured data · MCP-compatible · Free
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
-![Repos](https://img.shields.io/badge/Repositories-119-blue)
+![Repos](https://img.shields.io/badge/Repositories-124-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 </div>
