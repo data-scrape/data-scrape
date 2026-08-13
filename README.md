@@ -4,7 +4,7 @@
 
 # Data Extraction Architect
 
-**149+ open-source tools**: Web Data APIs, MCP servers, scrapers, AI agent data tools & awesome lists.
+**160+ open-source tools**: Web Data APIs, MCP servers, scrapers, AI agent data tools & awesome lists.
 
 Google Maps · LinkedIn · Social Media · E-commerce · Search · MCP Servers
 
@@ -16,7 +16,7 @@ Google Maps · LinkedIn · Social Media · E-commerce · Search · MCP Servers
 
 ## About
 
-Building the largest open-source Web Data Infrastructure ecosystem on GitHub. 149 production-ready repos covering scraper tools, CoreClaw product APIs, competitor alternatives, AI agent data connectors, and curated awesome lists.
+Building the largest open-source Web Data Infrastructure ecosystem on GitHub. 160 production-ready repos covering scraper tools, CoreClaw product APIs, competitor alternatives, AI agent data connectors, and curated awesome lists.
 
 ### CoreClaw Product Lines
 
@@ -36,7 +36,7 @@ Join the [DataScrape Discord community](https://discord.gg/s5DWYXTc8) to discuss
 
 ---
 
-## Repository Matrix (149 repos)
+## Repository Matrix (160 repos)
 
 ### AI Agent Data
 
@@ -100,7 +100,17 @@ Join the [DataScrape Discord community](https://discord.gg/s5DWYXTc8) to discuss
 
 | Repository | Description |
 |-----------|-------------|
-| [public-onchain-token-monitor](https://github.com/data-scrape/public-onchain-token-monitor) | Scrape public onchain token monitor data |
+| [amazon-reviews-scraper](https://github.com/data-scrape/amazon-reviews-scraper) | Scrape amazon reviews scraper data |
+| [bing-search-scraper](https://github.com/data-scrape/bing-search-scraper) | Scrape bing search scraper data |
+| [caleprocure-scraper](https://github.com/data-scrape/caleprocure-scraper) | Scrape caleprocure scraper data |
+| [dealwatch-scraper](https://github.com/data-scrape/dealwatch-scraper) | Scrape dealwatch scraper data |
+| [ebay-items-scraper](https://github.com/data-scrape/ebay-items-scraper) | Scrape ebay items scraper data |
+| [irs-990-nonprofit-search](https://github.com/data-scrape/irs-990-nonprofit-search) | Scrape irs 990 nonprofit search data |
+| [ny-business-entity-scraper](https://github.com/data-scrape/ny-business-entity-scraper) | Scrape ny business entity scraper data |
+| [snapchat-profile-scraper](https://github.com/data-scrape/snapchat-profile-scraper) | Scrape snapchat profile scraper data |
+| [spotify-profiles-search-scraper](https://github.com/data-scrape/spotify-profiles-search-scraper) | Scrape spotify profiles search scraper data |
+| [texas-trec-scraper](https://github.com/data-scrape/texas-trec-scraper) | Scrape texas trec scraper data |
+| [zoominfo-company-scraper](https://github.com/data-scrape/zoominfo-company-scraper) | Scrape zoominfo company scraper data |
 ### Discord Scrapers
 
 | Repository | Description |
@@ -200,6 +210,7 @@ Join the [DataScrape Discord community](https://discord.gg/s5DWYXTc8) to discuss
 | [pinterest-scraper](https://github.com/data-scrape/pinterest-scraper) | Scrape Pinterest pins, boards, images without API |
 | [pitchbook-scraper](https://github.com/data-scrape/pitchbook-scraper) | Scrape pitchbook scraper data |
 | [price-comparison](https://github.com/data-scrape/price-comparison) | Scrape price comparison data |
+| [public-onchain-token-monitor](https://github.com/data-scrape/public-onchain-token-monitor) | Scrape public onchain token monitor data |
 | [scrap-gold-ebay](https://github.com/data-scrape/scrap-gold-ebay) | Scrap gold eBay - extract gold and precious metal listings f |
 | [scrape-google-maps](https://github.com/data-scrape/scrape-google-maps) | Learn how to scrape Google Maps business listings, reviews,  |
 | [scrape-indeed-job-postings](https://github.com/data-scrape/scrape-indeed-job-postings) | Python tool to scrape Indeed job postings with full details |
@@ -277,7 +288,7 @@ Production-ready REST APIs · AI-ready structured data · MCP-compatible · Free
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
-![Repos](https://img.shields.io/badge/Repositories-149-blue)
+![Repos](https://img.shields.io/badge/Repositories-160-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 </div>
