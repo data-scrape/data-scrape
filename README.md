@@ -4,7 +4,7 @@
 
 # Data Extraction Architect
 
-**148+ open-source tools**: Web Data APIs, MCP servers, scrapers, AI agent data tools & awesome lists.
+**149+ open-source tools**: Web Data APIs, MCP servers, scrapers, AI agent data tools & awesome lists.
 
 Google Maps · LinkedIn · Social Media · E-commerce · Search · MCP Servers
 
@@ -16,7 +16,7 @@ Google Maps · LinkedIn · Social Media · E-commerce · Search · MCP Servers
 
 ## About
 
-Building the largest open-source Web Data Infrastructure ecosystem on GitHub. 148 production-ready repos covering scraper tools, CoreClaw product APIs, competitor alternatives, AI agent data connectors, and curated awesome lists.
+Building the largest open-source Web Data Infrastructure ecosystem on GitHub. 149 production-ready repos covering scraper tools, CoreClaw product APIs, competitor alternatives, AI agent data connectors, and curated awesome lists.
 
 ### CoreClaw Product Lines
 
@@ -36,7 +36,7 @@ Join the [DataScrape Discord community](https://discord.gg/s5DWYXTc8) to discuss
 
 ---
 
-## Repository Matrix (148 repos)
+## Repository Matrix (149 repos)
 
 ### AI Agent Data
 
@@ -100,17 +100,7 @@ Join the [DataScrape Discord community](https://discord.gg/s5DWYXTc8) to discuss
 
 | Repository | Description |
 |-----------|-------------|
-| [fcc-license-search](https://github.com/data-scrape/fcc-license-search) | Scrape fcc license search data |
-| [insurance-license-search](https://github.com/data-scrape/insurance-license-search) | Scrape insurance license search data |
-| [jooble-jobs-api](https://github.com/data-scrape/jooble-jobs-api) | Scrape jooble jobs api data |
-| [linkedin-jobs-scraper](https://github.com/data-scrape/linkedin-jobs-scraper) | Scrape linkedin jobs scraper data |
-| [linkedin-post-search-scraper](https://github.com/data-scrape/linkedin-post-search-scraper) | Scrape linkedin post search scraper data |
-| [nppes-npi-registry](https://github.com/data-scrape/nppes-npi-registry) | Scrape nppes npi registry data |
-| [ny-biz-lookup](https://github.com/data-scrape/ny-biz-lookup) | Scrape ny biz lookup data |
-| [nysed-professional-license-search](https://github.com/data-scrape/nysed-professional-license-search) | Scrape nysed professional license search data |
-| [pitchbook-scraper](https://github.com/data-scrape/pitchbook-scraper) | Scrape pitchbook scraper data |
-| [trustmrr-startup-scraper](https://github.com/data-scrape/trustmrr-startup-scraper) | Scrape trustmrr startup scraper data |
-| [wyoming-sos-registry](https://github.com/data-scrape/wyoming-sos-registry) | Scrape wyoming sos registry data |
+| [public-onchain-token-monitor](https://github.com/data-scrape/public-onchain-token-monitor) | Scrape public onchain token monitor data |
 ### Discord Scrapers
 
 | Repository | Description |
@@ -177,6 +167,7 @@ Join the [DataScrape Discord community](https://discord.gg/s5DWYXTc8) to discuss
 | [facebook-post-scraper](https://github.com/data-scrape/facebook-post-scraper) | Facebook post scraper - extract post data, reactions, commen |
 | [facebook-profile-scraper](https://github.com/data-scrape/facebook-profile-scraper) | Facebook profile scraper - extract profiles, friends, photos |
 | [facebook-scrape-website](https://github.com/data-scrape/facebook-scrape-website) | Facebook scrape website - full Facebook data extraction tool |
+| [fcc-license-search](https://github.com/data-scrape/fcc-license-search) | Scrape fcc license search data |
 | [fmcsa-dot-crawler](https://github.com/data-scrape/fmcsa-dot-crawler) | Scrape fmcsa dot crawler data |
 | [glassdoor-scraper](https://github.com/data-scrape/glassdoor-scraper) | Scrape Glassdoor job listings, salaries, company reviews |
 | [google-business-scraper](https://github.com/data-scrape/google-business-scraper) | Scrape Google Business Profiles - reviews, hours, contact in |
@@ -193,13 +184,21 @@ Join the [DataScrape Discord community](https://discord.gg/s5DWYXTc8) to discuss
 | [instagram-follower-scraper](https://github.com/data-scrape/instagram-follower-scraper) | Extract Instagram followers, public profiles, engagement met |
 | [instagram-profile-scraper](https://github.com/data-scrape/instagram-profile-scraper) | Extract public Instagram profile data, business accounts, bi |
 | [instagram-scraper](https://github.com/data-scrape/instagram-scraper) | Extract Instagram profiles, posts, reels, comments, hashtags |
+| [insurance-license-search](https://github.com/data-scrape/insurance-license-search) | Scrape insurance license search data |
+| [jooble-jobs-api](https://github.com/data-scrape/jooble-jobs-api) | Scrape jooble jobs api data |
 | [linkedin-email-scraper](https://github.com/data-scrape/linkedin-email-scraper) | LinkedIn email scraper - extract emails from LinkedIn profil |
+| [linkedin-jobs-scraper](https://github.com/data-scrape/linkedin-jobs-scraper) | Scrape linkedin jobs scraper data |
 | [linkedin-post-scraper](https://github.com/data-scrape/linkedin-post-scraper) | LinkedIn post scraper - extract posts, likes, comments, anal |
+| [linkedin-post-search-scraper](https://github.com/data-scrape/linkedin-post-search-scraper) | Scrape linkedin post search scraper data |
 | [linkedin-profile-data-scraper](https://github.com/data-scrape/linkedin-profile-data-scraper) | LinkedIn profile data scraper - extract profiles, experience |
 | [linkedin-scraper-api](https://github.com/data-scrape/linkedin-scraper-api) | LinkedIn scraper API - REST API for LinkedIn data extraction |
+| [nppes-npi-registry](https://github.com/data-scrape/nppes-npi-registry) | Scrape nppes npi registry data |
+| [ny-biz-lookup](https://github.com/data-scrape/ny-biz-lookup) | Scrape ny biz lookup data |
+| [nysed-professional-license-search](https://github.com/data-scrape/nysed-professional-license-search) | Scrape nysed professional license search data |
 | [or-biz-lookup](https://github.com/data-scrape/or-biz-lookup) | Scrape or biz lookup data |
 | [outscraper-google-maps-scraper](https://github.com/data-scrape/outscraper-google-maps-scraper) | Compare Outscraper Google Maps Scraper with modern alternati |
 | [pinterest-scraper](https://github.com/data-scrape/pinterest-scraper) | Scrape Pinterest pins, boards, images without API |
+| [pitchbook-scraper](https://github.com/data-scrape/pitchbook-scraper) | Scrape pitchbook scraper data |
 | [price-comparison](https://github.com/data-scrape/price-comparison) | Scrape price comparison data |
 | [scrap-gold-ebay](https://github.com/data-scrape/scrap-gold-ebay) | Scrap gold eBay - extract gold and precious metal listings f |
 | [scrape-google-maps](https://github.com/data-scrape/scrape-google-maps) | Learn how to scrape Google Maps business listings, reviews,  |
@@ -216,8 +215,10 @@ Join the [DataScrape Discord community](https://discord.gg/s5DWYXTc8) to discuss
 | [tiktok-data-scraper-api](https://github.com/data-scrape/tiktok-data-scraper-api) | TikTok data scraper API - REST API for TikTok data extractio |
 | [tiktok-profile-scraper](https://github.com/data-scrape/tiktok-profile-scraper) | TikTok profile scraper - extract profiles, followers, video  |
 | [tiktok-video-scraper](https://github.com/data-scrape/tiktok-video-scraper) | TikTok video scraper - extract video data, hashtags, trendin |
+| [trustmrr-startup-scraper](https://github.com/data-scrape/trustmrr-startup-scraper) | Scrape trustmrr startup scraper data |
 | [twitch-scraper](https://github.com/data-scrape/twitch-scraper) | Scrape Twitch channels, streams, chat without API |
 | [tx-biz-lookup](https://github.com/data-scrape/tx-biz-lookup) | Scrape tx biz lookup data |
+| [wyoming-sos-registry](https://github.com/data-scrape/wyoming-sos-registry) | Scrape wyoming sos registry data |
 | [x-scraper](https://github.com/data-scrape/x-scraper) | Scrape X/Twitter posts, profiles, followers without API |
 | [yellow-pages-scraper](https://github.com/data-scrape/yellow-pages-scraper) | Scrape Yellow Pages business listings - phone, address, revi |
 | [youtube-video-scraper-api](https://github.com/data-scrape/youtube-video-scraper-api) | YouTube video scraper API - REST API for video data extracti |
@@ -276,7 +277,7 @@ Production-ready REST APIs · AI-ready structured data · MCP-compatible · Free
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
-![Repos](https://img.shields.io/badge/Repositories-148-blue)
+![Repos](https://img.shields.io/badge/Repositories-149-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 </div>
