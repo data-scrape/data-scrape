@@ -4,7 +4,7 @@
 
 # Data Extraction Architect
 
-**165+ open-source tools**: Web Data APIs, MCP servers, scrapers, AI agent data tools & awesome lists.
+**179+ open-source tools**: Web Data APIs, MCP servers, scrapers, AI agent data tools & awesome lists.
 
 Google Maps · LinkedIn · Social Media · E-commerce · Search · MCP Servers
 
@@ -16,7 +16,7 @@ Google Maps · LinkedIn · Social Media · E-commerce · Search · MCP Servers
 
 ## About
 
-Building the largest open-source Web Data Infrastructure ecosystem on GitHub. 165 production-ready repos covering scraper tools, CoreClaw product APIs, competitor alternatives, AI agent data connectors, and curated awesome lists.
+Building the largest open-source Web Data Infrastructure ecosystem on GitHub. 179 production-ready repos covering scraper tools, CoreClaw product APIs, competitor alternatives, AI agent data connectors, and curated awesome lists.
 
 ### CoreClaw Product Lines
 
@@ -36,7 +36,7 @@ Join the [DataScrape Discord community](https://discord.gg/s5DWYXTc8) to discuss
 
 ---
 
-## Repository Matrix (165 repos)
+## Repository Matrix (179 repos)
 
 ### AI Agent Data
 
@@ -98,6 +98,24 @@ Join the [DataScrape Discord community](https://discord.gg/s5DWYXTc8) to discuss
 | [lead-generation-api](https://github.com/data-scrape/lead-generation-api) | Lead Generation API - Extract B2B contact data, company info |
 | [linkedin-data-api](https://github.com/data-scrape/linkedin-data-api) | LinkedIn Data API - B2B contact and company data for sales a |
 | [web-data-api](https://github.com/data-scrape/web-data-api) | Web Data API - Turn public web pages into structured data vi |
+### Custom Scrapers
+
+| Repository | Description |
+|-----------|-------------|
+| [aliexpress-scraper](https://github.com/data-scrape/aliexpress-scraper) | Scrape aliexpress scraper data |
+| [az-roc-license-scraper](https://github.com/data-scrape/az-roc-license-scraper) | Scrape az roc license scraper data |
+| [bing-serp-tracker](https://github.com/data-scrape/bing-serp-tracker) | Scrape bing serp tracker data |
+| [colorado-professional-license-scraper](https://github.com/data-scrape/colorado-professional-license-scraper) | Scrape colorado professional license scraper data |
+| [dol-5500-scraper](https://github.com/data-scrape/dol-5500-scraper) | Scrape dol 5500 scraper data |
+| [facebook-ads-library-scraper](https://github.com/data-scrape/facebook-ads-library-scraper) | Scrape facebook ads library scraper data |
+| [glassdoor-reviews-scraper](https://github.com/data-scrape/glassdoor-reviews-scraper) | Scrape glassdoor reviews scraper data |
+| [hyperliquid-public-market-monitor](https://github.com/data-scrape/hyperliquid-public-market-monitor) | Scrape hyperliquid public market monitor data |
+| [instagram-following-scraper](https://github.com/data-scrape/instagram-following-scraper) | Scrape instagram following scraper data |
+| [instagram-tagged-mentions-posts-scraper](https://github.com/data-scrape/instagram-tagged-mentions-posts-scraper) | Scrape instagram tagged mentions posts scraper data |
+| [lead-scoring-engine](https://github.com/data-scrape/lead-scoring-engine) | Scrape lead scoring engine data |
+| [new-york-license-scraper](https://github.com/data-scrape/new-york-license-scraper) | Scrape new york license scraper data |
+| [texas-tdi-insurance-license](https://github.com/data-scrape/texas-tdi-insurance-license) | Scrape texas tdi insurance license data |
+| [website-content-crawler](https://github.com/data-scrape/website-content-crawler) | Scrape website content crawler data |
 ### Discord Scrapers
 
 | Repository | Description |
@@ -293,7 +311,7 @@ Production-ready REST APIs · AI-ready structured data · MCP-compatible · Free
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
-![Repos](https://img.shields.io/badge/Repositories-165-blue)
+![Repos](https://img.shields.io/badge/Repositories-179-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 </div>
